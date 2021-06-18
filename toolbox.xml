@@ -1,0 +1,26 @@
+<xml xmlns="https://developers.google.com/blockly/xml" id="toolbox" style="display: none">
+  <category id="rotary" name="ROTARY" colour="#B6B6B6" icon="spinner">    
+    <block type="xbot_rotary_encoder_get_value" />
+    <block type="xbot_rotary_encoder_set_range">
+      <value name="min">
+        <shadow type="math_number">
+          <field name="NUM">000</field>
+        </shadow>
+      </value>
+      <value name="max">
+        <shadow type="math_number">
+          <field name="NUM">100</field>
+        </shadow>
+      </value>
+    </block>
+    <block type="xbot_rotary_encoder_mode"></block>
+    <block type="xbot_rotary_encoder_set_value">
+      <value name="value">
+        <shadow type="math_number">
+          <field name="NUM">000</field>
+        </shadow>
+      </value>
+    </block>
+    <block type="xbot_rotary_encoder_direction" />
+  </category>
+</xml>
