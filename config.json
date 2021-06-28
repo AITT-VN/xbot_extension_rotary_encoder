@@ -1,6 +1,6 @@
 {
-    "name": "ROTARY ENCODER",
-    "description": "Mục mở rộng hỗ trợ sử dụng rotary encoder",
+    "name": "Rotary Encoder",
+    "description": "Mục mở rộng của xbot cho module rotary encoder",
     "libs": [
         "rotary.py"
     ],
