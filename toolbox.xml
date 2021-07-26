@@ -1,5 +1,5 @@
 <xml xmlns="https://developers.google.com/blockly/xml" id="toolbox" style="display: none">
-  <category id="rotary" name="ROTARY" colour="#ff9933" icon="spinner">    
+  <category id="rotary" name="ROTARY" colour="#ae00ae" icon="spinner">    
     <block type="xbot_rotary_encoder_get_value" />
     <block type="xbot_rotary_encoder_set_range">
       <value name="min">

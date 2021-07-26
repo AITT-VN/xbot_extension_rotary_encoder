@@ -1,7 +1,7 @@
 Blockly.Blocks['xbot_rotary_encoder_get_value'] = {
   init: function () {
     this.jsonInit({
-      colour: "#ff9933",
+      colour: "#ae00ae",
       tooltip: "",
       message0: "%2 đọc giá trị rotary encoder cổng %1",
       args0: [
@@ -35,7 +35,7 @@ Blockly.Blocks['xbot_rotary_encoder_get_value'] = {
 Blockly.Blocks['xbot_rotary_encoder_set_range'] = {
   init: function () {
     this.jsonInit({
-      colour: "#ff9933",
+      colour: "#ae00ae",
       tooltip: "",
       message0: "%5 đặt khoảng giá trị cho rotary encoder cổng %1 min %2 max %3 %4",
       args0: [
@@ -81,7 +81,7 @@ Blockly.Blocks['xbot_rotary_encoder_set_range'] = {
 Blockly.Blocks['xbot_rotary_encoder_mode'] = {
   init: function () {
     this.jsonInit({
-      colour: "#ff9933",
+      colour: "#ae00ae",
       tooltip: "",
       message0: "%3 đặt chế độ xoay cho rotary encoder cổng %1 %2",
       args0: [
@@ -125,7 +125,7 @@ Blockly.Blocks['xbot_rotary_encoder_mode'] = {
 Blockly.Blocks['xbot_rotary_encoder_set_value'] = {
   init: function () {
     this.jsonInit({
-      colour: "#ff9933",
+      colour: "#ae00ae",
       tooltip: "",
       message0: "%4 đặt giá trị hiện tại cho rotary encoder cổng %1 %2 %3",
       args0: [
@@ -167,7 +167,7 @@ Blockly.Blocks['xbot_rotary_encoder_set_value'] = {
 Blockly.Blocks['xbot_rotary_encoder_direction'] = {
   init: function () {
     this.jsonInit({
-      colour: "#ff9933",
+      colour: "#ae00ae",
       tooltip: "",
       message0: "%3 rotary encoder cổng %1 được %2",
       args0: [
